@@ -1,0 +1,5 @@
+AppBundle\Entity\Usuarios:
+    exclusion_policy: all
+    properties:
+        password:
+            exclude: true
